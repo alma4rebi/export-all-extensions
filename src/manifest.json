@@ -1,7 +1,7 @@
 ﻿{
     "manifest_version": 2,
     "name": "Export all extensions",
-    "version": "1.0",
+    "version": "1.1",
 
     "description": "Export name and url of all installed extensions in Google Chrome",
     "icons": {

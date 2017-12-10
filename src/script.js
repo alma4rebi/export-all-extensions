@@ -101,11 +101,5 @@
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);
-
-        // Alert user
-        alert('Download completed');
-
-        // Close popup
-        window.close();
     });
 })(window, document);
